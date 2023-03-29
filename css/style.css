@@ -123,6 +123,7 @@ footer {
 	line-height: 50px;
 }
 h2{ color:#009933; background:#DFFDE7; font-size:30px;}
+
 .bigdata li {
 	float: left;
 	width: 100%;
@@ -136,15 +137,12 @@ h2{ color:#009933; background:#DFFDE7; font-size:30px;}
 }
 .bigdata li .pic img {
 	width: 100%;
-	height: 100%;
-	
+	height: 100%;	
 }
 .bigdata li .text {
 	float: left;
 	width: 75%;
-	height: 270px;
-	
-	
+	height: 270px;	
 	line-height: 26px;
 	padding: 15px;
 	box-sizing: border-box;
